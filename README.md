@@ -55,11 +55,11 @@ I set the QR code image to a fixed width and then stylized the container around 
   padding: 20px;
 }
 ```
-```js
+<!-- ```js
 const proudOfThisFunc = () => {
   console.log('🎉')
 }
-```
+``` -->
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
